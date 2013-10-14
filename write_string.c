@@ -1,7 +1,7 @@
 /* write_string.c */
+/* This code was provided by the lab's author Wenliang Du, of Syracuse
+   University */
 #include <sys/types.h>
-
-
 #include <sys/stat.h>
 #include <fcntl.h>
 
